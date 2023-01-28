@@ -1,4 +1,4 @@
-A ready-made version of the firmware for [Seeeduino XIAO](https://www.seeedstudio.com/Seeeduino-XIAO-Arduino-Microcontroller-SAMD21-Cortex-M0+-p-4426.html).
+A ready-made version of the firmware for [Seeeduino XIAO](https://www.seeedstudio.com/Seeeduino-XIAO-Arduino-Microcontroller-SAMD21-Cortex-M0+-p-4426.html) as a Transmitter.
 
 To upload the firmware, you need ```XIAO``` to enter the bootloader mode.
 
