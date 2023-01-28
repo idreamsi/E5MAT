@@ -1,7 +1,7 @@
 /*******************************************************************************
  *
  * E5MAT: Location Tracker Using GPS and LoRa Technology
- * LoRa GPS Tracker using Wio-E5 Wireless Module and the possibility of real-time tracking on the map, No need to install the app on the phone.
+ * LoRa GPS Tracker using Grove LoRa-E5 and the possibility of real-time tracking on the map.
  * Please find more details at Hackster.io:
  * https://www.hackster.io/idreams/e5mat-location-tracker-using-gps-and-lora-technology-05f7cf
  * 
