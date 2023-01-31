@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="750" height="500" src="https://github.com/idreamsi/E5MAT/blob/main/diagram.png?raw=true">
+  <img width="750" height="500" src="https://github.com/idreamsi/E5MAT/blob/main/schematic/diagram.png?raw=true">
 </p>
 
 <p align="center">
