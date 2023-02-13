@@ -42,7 +42,7 @@ void handleGPS() {
 void setup(void){
   Serial.begin(115200);
 
-  lora.init(GROVE_RX, GROVE_TX);
+  lora.init();.    //lora.init(GROVE_RX, GROVE_TX);
   delay(2000);
   lora.initP2PMode(866, SF12, BW125, 12, 15, 14);
 
